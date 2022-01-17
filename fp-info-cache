@@ -1,4 +1,4 @@
-514498910699516
+586362234677183
 Battery_Holders
 Bulgin_BX0036_1xC
 
@@ -20587,6 +20587,34 @@ Resonator_muRata_DSS6-3pin_w7.0mm_h2.5mm
 0
 0
 Custom Footprints
+02x7.62mm_Angled
+Generic Phoenix Contact connector footprint for series: GMSTBA-G; number of pins: 02; pin pitch: 7.62mm; Angled || order number: 1766233 12A 630V
+phoenix_contact connector GMSTBA_01x02_G_7.62mm
+0
+2
+2
+Custom Footprints
+3.96mm_Vertical_1
+JST VH series connector, B6P-VH-FB-B, 3.96mm pitch, top entry type, shrouded, through hole
+connector jst vh shrounded vertical
+0
+1
+1
+Custom Footprints
+3.96mm_Vertical_3
+JST VH series connector, B6P-VH-FB-B, 3.96mm pitch, top entry type, shrouded, through hole
+connector jst vh shrounded vertical
+0
+3
+3
+Custom Footprints
+3.96mm_Vertical_6
+JST VH series connector, B6P-VH-FB-B, 3.96mm pitch, top entry type, shrouded, through hole
+connector jst vh shrounded vertical
+0
+6
+6
+Custom Footprints
 3PDT
 
 
@@ -20601,12 +20629,40 @@ DIP Switch Slide 7.62mm 300mil
 8
 8
 Custom Footprints
+5x3.96mm_Vertical_5
+JST VH series connector, B5P-VH-FB-B, 3.96mm pitch, top entry type, shrouded, through hole
+connector jst vh shrounded vertical
+0
+5
+5
+Custom Footprints
 12x12_SMD_PushButton
 
 
 0
 4
 2
+Custom Footprints
+34_right_angle_ribbon
+Through hole straight pin header, 2x17, 2.54mm pitch, double rows
+Through hole pin header THT 2x17 2.54mm double row
+0
+34
+34
+Custom Footprints
+44pinEdge
+
+
+0
+48
+20
+Custom Footprints
+44pinEdge2
+
+
+0
+48
+40
 Custom Footprints
 0508 (reversed)
 
@@ -20650,6 +20706,20 @@ CB Business Card CR2032
 2
 2
 Custom Footprints
+CR23 Socket
+
+
+0
+10
+10
+Custom Footprints
+CR30
+
+
+0
+10
+10
+Custom Footprints
 CR2032_Socket
 
 
@@ -20685,12 +20755,33 @@ THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
 16
 16
 Custom Footprints
+DIP-16_W7.62mm_NoSilk
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+16
+16
+Custom Footprints
 DIP-16_W7.62mm_ZIF
 16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
 THT DIP DIL PDIP 2.54mm 7.62mm 300mil
 0
 16
 16
+Custom Footprints
+DIP-26_W15.24mm_ns
+28-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+26
+26
+Custom Footprints
+DIP-40_W15.24mm_No_silk
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+40
+40
 Custom Footprints
 D_SMA-SMT_Combo
 Diode SMA (DO-214AC)
@@ -20720,6 +20811,13 @@ CONN
 8
 8
 Custom Footprints
+Guilmon
+
+
+0
+0
+0
+Custom Footprints
 Jamma Edge
 
 
@@ -20727,12 +20825,33 @@ Jamma Edge
 60
 26
 Custom Footprints
+JammaEdge2
+
+
+0
+60
+26
+Custom Footprints
+JammaEdge3_keyed
+
+
+0
+58
+50
+Custom Footprints
 Lead Free
 
 
 0
 0
 0
+Custom Footprints
+MB3712
+SIP 8-pin (http://www.njr.com/semicon/PDF/package/SIP8_E.pdf)
+SIP8
+0
+9
+9
 Custom Footprints
 MatsuPot
 
@@ -20923,6 +21042,20 @@ R_Arrayx8
 10
 10
 Custom Footprints
+R_Axial_DIN0309_L7.0mm_D3.2mm_P12.70mm_Horizontal
+Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm
+0
+2
+2
+Custom Footprints
+R_Network_8_2512
+
+
+0
+10
+10
+Custom Footprints
 Ribbon_Pad_5
 
 
@@ -21028,6 +21161,13 @@ Shrink-DIP-24
 24
 24
 Custom Footprints
+TO-92_Inline_Narrow_NoSilk
+TO-92 leads in-line, narrow, oval pads, drill 0.6mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+Custom Footprints
 TSOP-II-44_10.16x18.41mm_P0.8mm
 TSOP-II, 44 Pin (http://www.issi.com/WW/pdf/61-64C5128AL.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TSOP-II SO
@@ -21041,6 +21181,27 @@ TSOP32_12.5x8.2_.5mm
 0
 32
 32
+Custom Footprints
+TST-Bullet
+
+
+0
+0
+0
+Custom Footprints
+TST-Ship
+
+
+0
+0
+0
+Custom Footprints
+TST_Firebird
+
+
+0
+0
+0
 Custom Footprints
 Tant7343-5mmsmt
 Tantalum capacitor, Case V, EIA 7343-20, 7.3x4.3x2.0mm, Hand soldering footprint
@@ -30358,6 +30519,153 @@ L_Toroid_Vertical_L67.6mm_W36.1mm_P31.80mm_Vishay_TJ9
 0
 0
 0
+Jumpers
+SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
+solder jumper open
+0
+2
+2
+Jumpers
+SolderJumper-2_P1.3mm_Bridged2Bar_RoundedPad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 2 copper strips
+solder jumper open
+0
+2
+2
+Jumpers
+SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 1 copper strip
+solder jumper open
+0
+2
+2
+Jumpers
+SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip
+solder jumper open
+0
+2
+2
+Jumpers
+SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+Jumpers
+SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+Jumpers
+SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+Jumpers
+SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip
+solder jumper open
+0
+3
+3
+Jumpers
+SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm_NumberLabels
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip, labeled with numbers
+solder jumper open
+0
+3
+3
+Jumpers
+SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip
+solder jumper open
+0
+3
+3
+Jumpers
+SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm_NumberLabels
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip, labeled with numbers
+solder jumper open
+0
+3
+3
+Jumpers
+SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
+solder jumper open
+0
+3
+3
+Jumpers
+SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm_NumberLabels
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
+solder jumper open
+0
+3
+3
+Jumpers
+SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
+solder jumper open
+0
+3
+3
+Jumpers
+SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
+solder jumper open
+0
+3
+3
+Jumpers
+SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, open
+solder jumper open
+0
+3
+3
+Jumpers
+SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open, labeled with numbers
+solder jumper open
+0
+3
+3
+Jumpers
+SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+3
+3
+Jumpers
+SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open, labeled with numbers
+solder jumper open
+0
+3
+3
+Jumpers
+SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+5
+3
+Jumpers
+SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open, labeled with numbers
+solder jumper open
+0
+5
+3
 LEDs
 LED-L1T2_LUMILEDS
 
